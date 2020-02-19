@@ -1,6 +1,6 @@
 type: material
-name: Silver
+name: Gaz
 description: A rare resource.
-hardness: 2
-cost: 2
+hardness: 3
+cost: 3
 color: ffffff
