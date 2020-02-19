@@ -1,2 +1,6 @@
-type: OreBlock
+
+type: floor
+name: gaz
 itemDrop: gaz
+variants: 3
+playerUnmineable: true
